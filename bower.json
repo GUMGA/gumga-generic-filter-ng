@@ -1,5 +1,6 @@
 {
   "name": "gumga-generic-filter-ng",
+  "version": "1.0.1",
   "description": "Gumga Generic Filter",
   "main": "./src/generic-filter.js",
   "authors": [
